@@ -17,10 +17,10 @@ requirejs.config({
   }, //shim
 
   paths: {
-    'backbone':     'lib/backbone',
-    'jquerymobile': 'lib/jquery.mobile-1.3.1',
-    'underscore':   'lib/underscore',
-    'jquery':       'lib/jquery-1.9.1'
+    'backbone':     'lib/backbone-min',
+    'jquerymobile': 'lib/jquery.mobile-1.4.5.min',
+    'underscore':   'lib/underscore-min',
+    'jquery':       'lib/jquery-1.11.3.min'
   } //path
 });
 
